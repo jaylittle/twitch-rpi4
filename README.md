@@ -1,12 +1,12 @@
-Initial README for RPI4 Twitch Streaming Script project
+# Initial README for RPI4 Twitch Streaming Script project
 
-#Disclaimer:
+## Disclaimer:
 
 Parts of these scripts were liberally borrowed from:
 
 https://wiki.archlinux.org/index.php/Streaming_to_twitch.tv
 
-#How to use
+## How to use
 
 1. Clone this repo
 2. Copy ffmpeg-config-sample.sh to ffmpeg-config.sh
