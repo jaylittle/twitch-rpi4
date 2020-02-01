@@ -6,11 +6,11 @@ Parts of these scripts were liberally borrowed from: https://wiki.archlinux.org/
 
 ## Requirements
 
-Raspberry Pi 4 with a minimum of 2 gigs of RAM
-Raspbian installed on your Micro SD card
-External USB 3.0 HDMI Capture Device / WebCam for Video
-Microphone for Voice Audio Overlay
-TODO: List Raspbian Package Dependencies (ffmpeg, libx264, etc)
+* Raspberry Pi 4 with a minimum of 2 gigs of RAM
+* Raspbian installed on your Micro SD card
+* External USB 3.0 HDMI Capture Device / WebCam for Video
+* Microphone for Voice Audio Overlay
+* TODO: List Raspbian Package Dependencies (ffmpeg, libx264, etc)
 
 ## How to use
 
