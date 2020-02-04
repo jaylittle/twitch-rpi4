@@ -4,14 +4,14 @@
 
 INRES="1280x720" # input resolution
 OUTRES="1280x720" # output resolution
-FPS="15" # target FPS
-GOP="30" # i-frame interval, should be double of FPS, 
-GOPMIN="15" # min i-frame interval, should be equal to fps,
+FPS="30" # target FPS
+GOP="60" # i-frame interval, should be double of FPS, 
+GOPMIN="30" # min i-frame interval, should be equal to fps,
 CBR="3000k" # constant bitrate (should be between 1000k - 3000k)
 OUTAUDIO_FORMAT="aac"
 OUTAUDIO_RATE="44100"
 OUTAUDIO_CHANNELS="2"
-OUTVIDEO_FORMAT="libx264"
+OUTVIDEO_CODEC="h264_omx"
 OUTVIDEO_QUALITY="ultrafast"
 OUTVIDEO_PIXFMT="yuv420p"
 OUTSTREAM_CONTAINER="flv"

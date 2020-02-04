@@ -2,7 +2,6 @@
 #NOTE: Copy this to stream-video-input-audio-inputs-config.sh and configure appropriately
 #NOTE: The Following Settings are Specific to this Script
 
-INVIDEO1_CODEC="h264"
 INVIDEO1_FORMAT="video4linux2"
 INVIDEO1_DEVICE="/dev/video0"
 INAUDIO1_FORMAT="pulse"
